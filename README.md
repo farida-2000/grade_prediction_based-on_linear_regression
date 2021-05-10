@@ -1,1 +1,1 @@
-"# grade_prediction_based-on_linear_regression" 
+"# grade prediction of students with a simple linear regression model in python" 
